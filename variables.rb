@@ -9,3 +9,7 @@ temp = 53
 deposit = 1200.00
 price = 6.42
 dogs_age = 1.5
+
+female = true
+summer = false
+doing_homework = true
