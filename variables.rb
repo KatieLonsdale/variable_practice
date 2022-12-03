@@ -13,3 +13,12 @@ dogs_age = 1.5
 female = true
 summer = false
 doing_homework = true
+
+name = "Stacey"
+school = "CSU"
+program = "front end"
+
+puts name
+puts age
+puts price
+puts doing_homework
