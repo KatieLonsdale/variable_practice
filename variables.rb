@@ -5,3 +5,7 @@ program = "back end"
 age = 32
 year = 2022
 temp = 53
+
+deposit = 1200.00
+price = 6.42
+dogs_age = 1.5
